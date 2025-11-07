@@ -8,6 +8,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidTs93&rank_icon=github&show_icons=true&line_height=27&count_private=true&theme=tokyonight" alt="DavidTs93's GitHub Stats" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,docker,linux,git,powershell,gitlab,idea,github,discord&perline=5" />
+    <img src="https://skillicons.dev/icons?i=java,docker,linux,git,powershell" />
+    <img src="https://skillicons.dev/icons?i=gitlab,idea,github,discord" />
   </a>
 </p>
